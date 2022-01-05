@@ -14,3 +14,9 @@
 //new2
 
 ![unnamed (1)](https://user-images.githubusercontent.com/38567476/147045883-1237a92d-9238-404f-8578-f827f07d2fd3.jpg)
+
+
+
+//new_QR_26.1.1
+
+![new_qrcode](https://user-images.githubusercontent.com/38567476/148168932-bb2380d2-1ee7-4533-9425-1faad29eafe9.jpeg)
